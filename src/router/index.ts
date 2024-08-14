@@ -9,6 +9,7 @@ const router = createRouter({
       name: "home",
       component: HomeView,
     },
+    // day route, event route, monthly events route
     // {
     //   path: "/about",
     //   name: "about",
